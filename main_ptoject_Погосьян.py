@@ -1,4 +1,5 @@
 print('Основная строка базового проекта')
+print('Branch: pogosyan')
 
 
 pos = 0
